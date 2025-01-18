@@ -1,5 +1,5 @@
 const express = require('express');
-const { validateEvent } = require('../validators');
+const { validateEvent } = require('../helpers/validators');
 const { getEventById, createEvent, updateEvent, deleteEvent, getAllEvents } = require('../models/events');
 
 const router = express.Router();
