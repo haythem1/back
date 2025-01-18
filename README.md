@@ -1,6 +1,7 @@
 # install node_modules
 
 ### `npm install`
+version node : v20
 
 # run le projet 
 
@@ -15,7 +16,7 @@ get events : [http://localhost:5000/events](http://localhost:5000/events) .\
 post events : [http://localhost:5000/events](http://localhost:5000/events) .\
 get events by id : [http://localhost:5000/events/id](http://localhost:5000/events/id) .\
 put events : [http://localhost:5000/events/id](http://localhost:5000/events/id) .\
-delete events : [http://localhost:5000/events/id](http://localhost:5000/events/id) 
+delete events : [http://localhost:5000/events/id](http://localhost:5000/events/id) .
 
 ### `npm test`
 
